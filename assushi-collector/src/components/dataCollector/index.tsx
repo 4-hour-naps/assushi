@@ -2,14 +2,14 @@ import {Grid} from '@mui/material'
 import React from 'react'
 
 
-const Dash: React.FC = () => {
+const Collector: React.FC = () => {
   return(
     <Grid container>
       <Grid item>
-        ASSUHI DASH
+        ASSUSHI COLLECTOR
       </Grid>
     </Grid>
   )
 }
 
-export default Dash;
+export default Collector;
